@@ -1,5 +1,7 @@
 # Conway's Game of Life in Python
-A python script for playing the Conway's Game of Life.
+A python script for playing the Conway's Game of Life. More information concerning the game can be found [here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). A preview of the program is presented below.
+
+<img src="./readme_contents/ConwaysGameOfLifePreviewPython.gif" width="450">
 
 ## Installation
 
